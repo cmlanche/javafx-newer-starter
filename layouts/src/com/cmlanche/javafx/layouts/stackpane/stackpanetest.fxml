@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.StackPane?>
+<StackPane xmlns="http://javafx.com/javafx"
+           xmlns:fx="http://javafx.com/fxml"
+           fx:controller="com.cmlanche.javafx.layouts.stackpane.StackPaneTest"
+           prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: grey;">
+
+    <Button fx:id="button1" text="button1" prefWidth="100" prefHeight="200">
+    </Button>
+
+    <Button fx:id="button2" text="button2" prefWidth="200" prefHeight="100">
+    </Button>
+</StackPane>
