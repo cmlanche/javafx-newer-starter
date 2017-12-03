@@ -8,6 +8,7 @@ import javafx.stage.Stage;
 
 /**
  * Created by cmlanche on 2017/12/2.
+ *
  */
 public class StackPaneTest extends Application {
 
